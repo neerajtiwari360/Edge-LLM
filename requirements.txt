@@ -1,0 +1,2 @@
+onnxruntime-genai-directml
+flask
